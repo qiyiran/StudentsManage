@@ -1,0 +1,22 @@
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\bin\Debug\Experiment.exe.config
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\bin\Debug\Experiment.exe
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\bin\Debug\Experiment.pdb
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\obj\Debug\Experiment.Form1.resources
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\obj\Debug\Experiment.Properties.Resources.resources
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\obj\Debug\Experiment.exe
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\obj\Debug\Experiment.pdb
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\obj\Debug\Experiment.UCTree.resources
+D:\Visual Studio 2013 Projects\study and practice\事件\Experiment\Experiment\obj\Debug\Experiment.UCbtn.resources
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\bin\Debug\Experiment.exe.config
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\obj\Debug\Experiment.exe
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\obj\Debug\Experiment.pdb
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\bin\Debug\Experiment.exe
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\bin\Debug\Experiment.pdb
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\obj\Debug\Experiment.Form1.resources
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\obj\Debug\Experiment.Properties.Resources.resources
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\obj\Debug\Experiment.UCbtn.resources
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\obj\Debug\Experiment.UCTree.resources
+D:\派单\1806-1-2408--图书学生信息--finished\Experiment\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
